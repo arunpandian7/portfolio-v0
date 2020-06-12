@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://iamarunpandian.com/sitemap.xml
+Host: https://iamarunpandian.com
