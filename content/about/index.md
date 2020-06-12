@@ -7,7 +7,7 @@ skills:
   - Natural Language Processing
   - HTML/CSS & Javascript
   - React
-  - Docker
+  - AWS
 ---
 
 Hello There! I'm Arun Pandian R, a futurist who is fascinated in learning about Humanity, Science and Technology.
