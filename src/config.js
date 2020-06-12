@@ -63,7 +63,7 @@ module.exports = {
     darkNavy: '#12032E',
   },
 
-  srConfig: (delay = 200) => ({
+  srConfig: (delay = 1000) => ({
     origin: 'bottom',
     distance: '20px',
     duration: 500,
