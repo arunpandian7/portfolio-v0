@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://iamarunpandian.com/sitemap.xml
-Host: https://iamarunpandian.com
+Sitemap: https://arunpandian7.github.io/sitemap.xml
+Host: https://arunpandian7.github.io
